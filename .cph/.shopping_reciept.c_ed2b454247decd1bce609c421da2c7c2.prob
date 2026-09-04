@@ -1,0 +1,1 @@
+{"name":"Local: shopping_reciept","url":"d:\\Structured_Programming_Language\\shopping_reciept.c","tests":[{"id":1788538881112,"input":"Apple\n1.50\n3","output":"Item: Apple\nPrice: $1.50\nQuantity: 3\nTotal: $4.50\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Structured_Programming_Language\\shopping_reciept.c","group":"local","local":true}

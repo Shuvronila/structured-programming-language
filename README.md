@@ -40,7 +40,7 @@ File Name| Description
 
 🛠️ Tools & Technologies
 
-- Language: C
+- Programming Language: C
 - Code Editor: Visual Studio Code
 - Version Control: Git
 - Repository Hosting: GitHub
@@ -56,6 +56,7 @@ File Name| Description
 ✍️ Author
 
 Shuvronila Bhattacharjee
+
 First Year, First Semester
 Sylhet Engineering College
 
